@@ -1,0 +1,17 @@
+# Compiled Java files
+*.class
+out/
+
+# Generated runtime data
+accounts.dat
+bank-report.txt
+transactions.log
+logs/
+
+# IDE settings
+.vscode/
+vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
